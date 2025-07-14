@@ -4,5 +4,5 @@
 This repo contains the week-1 projects which are basically built using raw HTML5 and CSS3.
 
 Project - Zerodha (access link)
-https://zerodha-clone2.netlify.app/
+<a>https://zerodha-clone2.netlify.app/</a>
 ```
