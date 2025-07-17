@@ -5,4 +5,7 @@ This repo contains the week-1 projects which are basically built using raw HTML5
 
 Project - Zerodha (access link)
 https://zerodha-clone2.netlify.app/
+
+Project - Vs Code (access link)
+https://vs-code-landingpage.netlify.app/
 ```
